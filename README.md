@@ -6,3 +6,4 @@
 - [] Redux-Saga
 - [] Reduz-Loop
 - [] Elm architecture
+- [] Cycle
